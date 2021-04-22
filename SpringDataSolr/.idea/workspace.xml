@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48ff307c-63c9-4a9e-9d32-0725cf0be027" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1qEuzzGgx66EBJCnbRZaIzbf7kE" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDERWorkaray\SpringDataSolr\src\test\java" />
+      <recent name="D:\IDERWorkaray\SpringDataSolr\src\main\java\com\offcn\pojo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestTemplate.testPageQuery">
+    <configuration name="TestTemplate.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDataSolr" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTemplate" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTemplate.testAddList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDataSolr" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTemplate" />
+      <option name="METHOD_NAME" value="testAddList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTemplate.testFindOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDataSolr" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTemplate" />
+      <option name="METHOD_NAME" value="testFindOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTemplate.testPageQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDataSolr" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTemplate" />
+      <option name="METHOD_NAME" value="testPageQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTemplate.testPageQueryMutil" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringDataSolr" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTemplate" />
+      <option name="METHOD_NAME" value="testPageQueryMutil" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestTemplate.testPageQuery" />
+        <item itemvalue="JUnit.TestTemplate.testAddList" />
+        <item itemvalue="JUnit.TestTemplate.testPageQueryMutil" />
+        <item itemvalue="JUnit.TestTemplate.testFindOne" />
+        <item itemvalue="JUnit.TestTemplate.testAdd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48ff307c-63c9-4a9e-9d32-0725cf0be027" name="Default Changelist" comment="" />
+      <created>1616657337024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616657337024</updated>
+      <workItem from="1616657342278" duration="2672000" />
+      <workItem from="1616670604962" duration="1477000" />
+      <workItem from="1617265008691" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="213" key="#Project_Structure" timestamp="1616657478636">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="552" y="213" key="#Project_Structure/0.30.1920.1050@0.30.1920.1050" timestamp="1616657478636" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1616676326413">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1616676326413" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1616676326413">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1616676326413" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1616676326413">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1616676326413" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1616676326413">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1616676326413" />
+  </component>
+</project>
